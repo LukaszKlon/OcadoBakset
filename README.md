@@ -22,5 +22,5 @@ Aby uniknąć zbyt dużej ilości iteracji rozważamy tylko metody dostawy, któ
 
 Ścieżki do testów zawierają ścieżki bezwzględne.  
 
-Autor: Łukasz Klon
+Autor: Łukasz_Klon_Java_Kraków
 
