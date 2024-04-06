@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JsonLoaderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-06T19:04:09" hostname="LAPTOP-LBPJJ722" time="0.204">
+  <properties/>
+  <testcase name="loadFromJsonValue()" classname="JsonLoaderTest" time="0.191"/>
+  <testcase name="loadFromJsonSizeCheck()" classname="JsonLoaderTest" time="0.003"/>
+  <testcase name="loadProductsFromJsonValues()" classname="JsonLoaderTest" time="0.005"/>
+  <testcase name="loadProductsFromJsonSize()" classname="JsonLoaderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
